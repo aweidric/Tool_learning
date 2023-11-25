@@ -1,1 +1,4 @@
-https://github.com/testerSunshine/12306
+GIT
+Cmake
+linux
+ubuntu
