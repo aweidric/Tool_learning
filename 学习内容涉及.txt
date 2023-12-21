@@ -1,4 +1,6 @@
-GIT
-Cmake
-linux
+git --Yes
 ubuntu
+linux
+java
+docker
+cmake
