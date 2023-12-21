@@ -1,6 +1,0 @@
-git --Yes
-ubuntu
-linux
-java
-docker
-cmake
